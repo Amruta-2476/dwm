@@ -1,0 +1,8 @@
+kmeans improve usability and search engine ranking
+1.Choose a dataset with lots of values (Breast Cancer) (or World Educational Data csv)
+2.Apply AllFilter from the Filter tab (same as above)   no need
+3.Apply ReplaceMissingValues    no need
+4.Go to the Cluster tab  
+5.Choose SimpleKMeans
+6.Click Start
+7.Right-click and select Visualize Cluster Assignments
