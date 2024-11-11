@@ -1,0 +1,5 @@
+Choose a dataset (supermarket)
+Apply AllFilter from the Filter tab
+Go to the Associate tab
+Choose Fpgrowth
+Click Start
