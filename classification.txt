@@ -1,0 +1,6 @@
+decision tree/bayesian
+1.Choose/download dataset (bankdata.csv kaggle) / (Iris)
+2.Apply AllFilter from the Filter tab
+3.Classify> Choose> J48 classifier inside the Trees folder
+4.Click Start
+5.click on the rhs result and click 'visualize tree'
